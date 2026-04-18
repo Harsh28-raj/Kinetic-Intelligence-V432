@@ -46,7 +46,7 @@ Unlike generic vision systems, **UNIT-V432** features a **custom-trained deep le
 ## 👨‍💻 Core Developers
 We are a team of AI enthusiasts dedicated to pushing the boundaries of autonomous navigation.
 
-* **Harsh Raj** –  [![GitHub](https://img.shields.io/badge/GitHub-Profile-lightgrey?style=flat&logo=github)](https://github.com/Harsh28-raj)
-* **Amresh Chaurasiya** –  [![GitHub](https://img.shields.io/badge/GitHub-Profile-lightgrey?style=flat&logo=github)](https://github.com/amresh-chaurasiya) 
+* **Harsh Raj** – [![GitHub](https://img.shields.io/badge/GitHub-Profile-lightgrey?style=flat&logo=github)](https://github.com/Harsh28-raj)
+* **Amresh Chaurasiya** – [![GitHub](https://img.shields.io/badge/GitHub-Profile-lightgrey?style=flat&logo=github)](https://github.com/Amresh-01) 
 
 ---
