@@ -1,7 +1,7 @@
 # 🛰️ KINETIC INTELLIGENCE // UNIT-V432
 **Custom Trained Deep Semantic Segmentation Engine for Extreme Autonomous Navigation**
 
----
+
 
 ## 🌌 The Project Core
 Unlike generic vision systems, **UNIT-V432** features a **custom-trained deep learning model** specifically optimized for unstructured terrain. By leveraging the DINOv2 (Vision Transformer) architecture as a robust feature extractor and training a custom **Segmentation Decoder** on specialized datasets, this unit achieves high-precision environment mapping.
